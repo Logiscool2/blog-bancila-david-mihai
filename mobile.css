@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1024spx) {
+@media only screen and (max-width: 1024px) {
     #hero-content{
         display:flex;
         flex-direction: column;
